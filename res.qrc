@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>bg/bg_fontaine.jpg</file>
+        <file>bg/bg_inazuma.jpg</file>
+        <file>bg/bg_liyue.jpg</file>
+        <file>bg/bg_mond.jpg</file>
+        <file>bg/bg_natlan.jpg</file>
+        <file>bg/bg_sumeru.jpg</file>
+    </qresource>
+    <qresource prefix="/char">
+        <file>char/babala.jpg</file>
+        <file>char/bannite.jpg</file>
+        <file>char/chongyun.jpg</file>
+        <file>char/diluke.jpg</file>
+        <file>char/feixieer.jpg</file>
+        <file>char/kaiya.jpg</file>
+        <file>char/kawei.jpg</file>
+        <file>char/kelai.jpg</file>
+        <file>char/keqing.jpg</file>
+        <file>char/ningguang.jpg</file>
+        <file>char/shanhugongxinhai.jpg</file>
+        <file>char/shatang.jpg</file>
+        <file>char/wendi.jpg</file>
+        <file>char/zhongli.jpg</file>
+    </qresource>
+</RCC>

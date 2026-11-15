@@ -1,0 +1,25 @@
+# Qt build output
+build/
+CMakeLists.txt.user*
+*.user
+.qtcreator/
+
+# build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.so
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.autosave
+CMakeCache.txt
+CMakeFiles/
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+desktop.ini
