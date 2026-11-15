@@ -23,10 +23,10 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(GeniusInvokationTCG
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
-        Card.h Card.cpp
-        player.h Player.cpp
-        Cardwidget.h Cardwidget.cpp
-        GameLogic.h GameLogic.cpp
+        card.h card.cpp
+        player.h player.cpp
+        cardwidget.h cardwidget.cpp
+        gamelogic.h gamelogic.cpp
         res.qrc
         globaldata.h globaldata.cpp
         bgselectwindow.h bgselectwindow.cpp
